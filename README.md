@@ -12,9 +12,7 @@ A modern, elegant web application for exploring food products using the OpenFood
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Color Scheme](#color-scheme)
-- [API Integration](#api-integration)
-- [Project Structure](#project-structure)
+- [Color Scheme](#color-scheme) 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
